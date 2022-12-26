@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akash-yadagouda
 - 👀 I’m interested in building distributed software systems which scales the user interactions.
-- 🌱 I’m currently learning about the building the efficient microservices and environments to adpot them easily.
+- 🌱 I’m currently learning about the building the efficient microservices and environments to adopt them easily.
 - 💞️ I’m looking to collaborate on projects which needs web-backend expertise help to scale up the projects.
 - 📫 How to reach me : 
   - twitter : https://twitter.com/akashyadagouda
